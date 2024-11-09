@@ -4,7 +4,7 @@ output: html_document
 date: "2024-10-31"
 ---
 
-Group:Nene Diall, Arifa Begum, Leonardo Alcaide, Maria Camilia Vergas, Sun Wo Kim
+Group: Nene Diall, Arifa Begum, Leonardo Alcaide, Maria Camilia Vergas, Sun Wo Kim
 
 ```{r Question 1}
 # Load libraries and dataset
